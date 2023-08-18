@@ -3,6 +3,10 @@ description: Syzygy Flame game
 version: 0.0.0
 publish_to: none
 
+flutter:
+  assets:
+    - assets/images/
+
 environment:
   sdk: ^2.16.0
   flutter: ^2.10.0
